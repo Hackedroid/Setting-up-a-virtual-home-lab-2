@@ -20,7 +20,7 @@ Let's dive in!
 <p>So what is virtualization anyway? Basically, the IT term virtualization refers to the practice of emulating (or simulating) a computer. You can use a Virtual Machine to run a computer as an application on your host computer.
  
 On the image below - the top computer would be the host computer. The three computers below the host are referred to as guest virtual machines.</p>
-<img src="" Alt="A virtualization image">
+<img src="Folder/1(1).png" Alt="A virtualization image">
 Virtual machines act like real computers, but run as a software program. So you can start, restart, shut down, install software and operating systems just like you would on a normal computer.
 This makes virtual machines perfect for IT labs.
 
